@@ -1,27 +1,18 @@
-# AngularPracticeApp
+**Angular Practice App - Tour of Heroes**
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 12.0.4.
+**Link:** https://angular.io/tutorial/
 
-## Development server
+**Lessons:**
+- Creating a new app using Angular CLI
+- Creating components using Angular CLI
+- Fetching mock data
+- Sync vs async requests
+- Displaying a list
+- Adding services
+- Adding Angular routing & navigation
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
+**Screenshots:**
+![Screen Shot 2021-06-13 at 9 24 14 PM](https://user-images.githubusercontent.com/40967205/121835257-04083080-cc8e-11eb-838d-2e39b7a55453.png)
+![Screen Shot 2021-06-13 at 9 24 03 PM](https://user-images.githubusercontent.com/40967205/121835262-066a8a80-cc8e-11eb-9e34-982f85b5c363.png)
+![Screen Shot 2021-06-13 at 9 24 07 PM](https://user-images.githubusercontent.com/40967205/121835265-079bb780-cc8e-11eb-84fe-970b57c02772.png)
 
-## Code scaffolding
-
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
-
-## Build
-
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
-
-## Running unit tests
-
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
-
-## Running end-to-end tests
-
-Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
-
-## Further help
-
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
