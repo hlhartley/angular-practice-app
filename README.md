@@ -1,4 +1,4 @@
-**Angular Practice App - Tour of Heroes**
+#Angular Practice App - Tour of Heroes
 
 **Link:** https://angular.io/tutorial/
 
